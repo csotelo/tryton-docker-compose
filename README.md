@@ -1,4 +1,4 @@
-i# Tryton ERP on AWS Lightsail: Production Ready Template
+# Tryton ERP on AWS Lightsail: Production Ready Template
 
 This project provides a streamlined `docker-compose` configuration designed to deploy **Tryton ERP** specifically on **AWS Lightsail**.
 
